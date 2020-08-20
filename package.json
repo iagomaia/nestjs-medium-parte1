@@ -24,7 +24,7 @@
     "@nestjs/core": "^6.10.14",
     "@nestjs/platform-express": "^6.10.14",
     "@nestjs/typeorm": "^6.3.1",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
     "pg": "^7.18.1",
